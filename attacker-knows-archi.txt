@@ -1,0 +1,32 @@
+4 layers hidden
+with # samples 500 we got best acc of 46.91, batch of 128, lr = 0.1
+with # samples 500 we got best acc of 46.16, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 30.95, batch of 128, lr = 0.01
+with # samples 2500 we got best acc of 54.68, batch of 128, lr = 0.1
+with # samples 2500 we got best acc of 54.07, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 54.28, batch of 128, lr = 0.01
+with # samples 5000 we got best acc of 56.51, batch of 128, lr = 0.1
+with # samples 5000 we got best acc of 57.5, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 57.62, batch of 128, lr = 0.01
+
+4 layers hidden and attacker says he uses server's response
+with # samples 500 we got best acc of 47.44, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 54.58, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 58.3, batch of 128, lr = 0.05
+
+3 layers and attacker uses his models
+with # samples 500 we got best acc of 42.4, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 52.16, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 54.59, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 23.59, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 42.26, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 46.94, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 23.59, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 42.26, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 46.94, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 23.59, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 42.26, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 46.94, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 42.4, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 52.16, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 54.59, batch of 128, lr = 0.05

@@ -1,0 +1,47 @@
+with # samples 5000 we got best acc of 58.28, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 54.46, batch of 128, lr = 0.07
+with # samples 500 we got best acc of 45.68, batch of 128, lr = 0.07
+with # samples 500 we got best acc of 31.4, batch of 128, lr = 0.1
+with # samples 500 we got best acc of 30.65, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 34.86, batch of 128, lr = 0.1
+with # samples 2500 we got best acc of 35.77, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 35.51, batch of 128, lr = 0.1
+with # samples 5000 we got best acc of 36.35, batch of 128, lr = 0.05
+
+
+
+incepem de aici
+with # samples 500 we got best acc of 31.4, batch of 128, lr = 0.1
+with # samples 500 we got best acc of 30.65, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 34.86, batch of 128, lr = 0.1
+with # samples 2500 we got best acc of 35.77, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 35.51, batch of 128, lr = 0.1
+with # samples 5000 we got best acc of 36.35, batch of 128, lr = 0.05
+with # samples 10000 we got best acc of 36.21, batch of 128, lr = 0.1
+with # samples 10000 we got best acc of 37.08, batch of 128, lr = 0.05
+with # samples 15000 we got best acc of 35.98, batch of 128, lr = 0.1
+with # samples 15000 we got best acc of 38.21, batch of 128, lr = 0.05
+
+
+with # samples 500 we got best acc of 19.64, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 31.18, batch of 128, lr = 0.07
+with # samples 5000 we got best acc of 31.52, batch of 128, lr = 0.07
+with # samples 10000 we got best acc of 33.34, batch of 128, lr = 0.07
+with # samples 15000 we got best acc of 33.45, batch of 128, lr = 0.07
+
+with # samples 500 we got best acc of 14.82, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 36.14, batch of 128, lr = 0.07
+with # samples 5000 we got best acc of 44.09, batch of 128, lr = 0.07
+with # samples 10000 we got best acc of 50.41, batch of 128, lr = 0.07
+with # samples 15000 we got best acc of 54.66, batch of 128, lr = 0.07
+
+with seed 0
+with # samples 500 we got best acc of 12.65, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 34.22, batch of 128, lr = 0.07
+with # samples 5000 we got best acc of 42.99, batch of 128, lr = 0.07
+with # samples 10000 we got best acc of 48.48, batch of 128, lr = 0.07
+with # samples 15000 we got best acc of 52.34, batch of 128, lr = 0.07
+
+with # samples 500 we got best acc of 10.0, batch of 128, lr = 0.01
+with # samples 2500 we got best acc of 13.59, batch of 128, lr = 0.01
+with # samples 5000 we got best acc of 19.29, batch of 128, lr = 0.01
